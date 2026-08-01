@@ -26,7 +26,6 @@ The interactive Looker Studio dashboard is divided into positional analysis (Goa
 *   **Haul vs. Blank Frequency:** Advanced tracking of opponent vulnerability, showcasing which teams concede the most hauls to specific positions.
 
 ## 📸 Sneak Peek
-*(Adicione aqui uma captura de tela do seu dashboard usando o formato abaixo)*
 `![Dashboard Screenshot](images/GK Home x Away.png)`
 
 ## 🤝 Feedback
